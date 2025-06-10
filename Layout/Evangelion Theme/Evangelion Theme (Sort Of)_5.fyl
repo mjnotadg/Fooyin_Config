@@ -1,6 +1,6 @@
 {
     "Name": "Evangelion Theme (Sort Of)_5",
-    "Theme": "AAAAAQAAAAAAAAAA/////wAAAAALAAAABQAAAAAB//+qqlVV//8AAAAAAAUAAAABAf//FxcAAEhIAAAAAAAFAAAABgH//0BAwcEAAAAAAAAABQAAAAcB//////////8AAAAAAAUAAAAIAf//qqqqqv//AAAAAAAFAAAACQH//xAQFRUaGgAAAAAABQAAAAoB//8AAAAAAAAAAAAAAAUAAAAMAf//AABVVQAAAAAAAAAFAAAADQH//wAA//8AAAAAAAAABQAAABAB//8bGwAAMTEAAAAAAAUAAAAUAf//qqoAAP//AAAAAAAB/////wAAABIATgBvAHQAbwAgAFMAYQBuAHMAAAAQAFMAZQBtAGkAQgBvAGwAZEAkAAAAAAAA/////wAAAQJYEAAAAQAAAAAAAAAAAAAAAAABAAAAEgBOAG8AdABvACAAUwBhAG4Acw==",
+    "Theme": "AAAAAQAAAAAAAAAA/////wAAAAALAAAABQAAAAAB//+qqlVV//8AAAAAAAUAAAABAf//FxcAAEhIAAAAAAAFAAAABgH//0BAwcEAAAAAAAAABQAAAAcB//////////8AAAAAAAUAAAAIAf//qqqqqv//AAAAAAAFAAAACQH//xAQFRUaGgAAAAAABQAAAAoB//8bGxsbGxsAAAAAAAUAAAAMAf//AABVVQAAAAAAAAAFAAAADQH//wAA//8AAAAAAAAABQAAABAB//8bGwAAMTEAAAAAAAUAAAAUAf//qqoAAP//AAAAAAAB/////wAAABIATgBvAHQAbwAgAFMAYQBuAHMAAAAQAFMAZQBtAGkAQgBvAGwAZEAkAAAAAAAA/////wAAAQJYEAAAAQAAAAAAAAAAAAAAAAABAAAAEgBOAG8AdABvACAAUwBhAG4Acw==",
     "Version": 1,
     "Widgets": [
         {
@@ -71,7 +71,7 @@
                     },
                     {
                         "SplitterVertical": {
-                            "State": "AAAA/wAAAAEAAAACAAACggAAABYA/////wEAAAACAA==",
+                            "State": "AAAA/wAAAAEAAAACAAACaAAAABYA/////wEAAAACAA==",
                             "Widgets": [
                                 {
                                     "TabStack": {
@@ -80,11 +80,11 @@
                                         "Widgets": [
                                             {
                                                 "SplitterVertical": {
-                                                    "State": "AAAA/wAAAAEAAAACAAABLwAAARUA/////wEAAAACAA==",
+                                                    "State": "AAAA/wAAAAEAAAACAAABJAAAASAA/////wEAAAACAA==",
                                                     "Widgets": [
                                                         {
                                                             "SplitterVertical": {
-                                                                "State": "AAAA/wAAAAEAAAACAAAAIAAAAQ4A/////wEAAAACAA==",
+                                                                "State": "AAAA/wAAAAEAAAACAAAAIAAAAQMA/////wEAAAACAA==",
                                                                 "Widgets": [
                                                                     {
                                                                         "SearchBar": {
@@ -95,47 +95,36 @@
                                                                     },
                                                                     {
                                                                         "SplitterHorizontal": {
-                                                                            "State": "AAAA/wAAAAEAAAACAAABdAAAAnkA/////wEAAAABAA==",
+                                                                            "State": "AAAA/wAAAAEAAAACAAABcQAAAnwA/////wEAAAABAA==",
                                                                             "Widgets": [
                                                                                 {
                                                                                     "LibraryFilter": {
-                                                                                        "Artwork": 2,
+                                                                                        "Artwork": 0,
                                                                                         "Captions": 1,
-                                                                                        "Columns": "2",
+                                                                                        "Columns": "6",
                                                                                         "Display": 1,
                                                                                         "Group": "Default",
-                                                                                        "ID": "4be29c8c333042fd80766c4e36fd3e1f",
+                                                                                        "ID": "cc03d34febaf49ab99a7b12029bc5b74",
                                                                                         "Index": 0,
                                                                                         "ShowSummary": true,
-                                                                                        "State": "AAAAJXjaY2BgYASieAYwDQaM9h+gDKgAAwAe7AGU"
+                                                                                        "State": "AAAAJXjaY2BgYASiGAYwDQaM9h+gDKgAAwAekgGR"
                                                                                     }
                                                                                 },
                                                                                 {
                                                                                     "SplitterHorizontal": {
-                                                                                        "State": "AAAA/wAAAAEAAAACAAABdgAAARQA/////wEAAAABAA==",
+                                                                                        "State": "AAAA/wAAAAEAAAACAAABgwAAAQAA/////wEAAAABAA==",
                                                                                         "Widgets": [
                                                                                             {
-                                                                                                "SplitterHorizontal": {
-                                                                                                    "State": "AAAA/wAAAAEAAAACAAAAAAAAAWsA/////wEAAAABAA==",
-                                                                                                    "Widgets": [
-                                                                                                        {
-                                                                                                            "Spacer": {
-                                                                                                            }
-                                                                                                        },
-                                                                                                        {
-                                                                                                            "LibraryFilter": {
-                                                                                                                "Artwork": 0,
-                                                                                                                "Captions": 1,
-                                                                                                                "Columns": "3",
-                                                                                                                "Display": 1,
-                                                                                                                "Group": "Default",
-                                                                                                                "ID": "353beef6c4694820bc6acc47d1d0127e",
-                                                                                                                "Index": 1,
-                                                                                                                "ShowSummary": true,
-                                                                                                                "State": "AAAAJXjaY2BgYASibAYwDQaM9h+gDKgAAwAgVAGg"
-                                                                                                            }
-                                                                                                        }
-                                                                                                    ]
+                                                                                                "LibraryFilter": {
+                                                                                                    "Artwork": 0,
+                                                                                                    "Captions": 2,
+                                                                                                    "Columns": "5",
+                                                                                                    "Display": 1,
+                                                                                                    "Group": "Default",
+                                                                                                    "ID": "6e54c0a70ef946fdb338662b851a4e50",
+                                                                                                    "Index": 1,
+                                                                                                    "ShowSummary": true,
+                                                                                                    "State": "AAAAJXjaY2BgYASiTAYwDQaM9h+gDKgAAwAgGAGe"
                                                                                                 }
                                                                                             },
                                                                                             {
@@ -157,7 +146,7 @@
                                                         {
                                                             "Playlist": {
                                                                 "Columns": "8:132|3|0:4|1|7:2|9",
-                                                                "HeaderState": "AAAAdXjaY2BgYGNgYHBmgABHBgamzUA6HsIGy4EAIxAzATEzELMAMStIzn5j79PV6vUu9hcgiuw3PNn69ty8Lvtnpde8Pnzrst/xrMjwo90H+w0/7O9OePcFZAjDfyAAANzIH6c=",
+                                                                "HeaderState": "AAAAdXjaY2BgYGNgYPBggABXBgamJ0A6Dcpng9KMQMwExMxAzALErCA5+01n3j9KPfbW/gJEkf0m8b0uP8OE7F/wcfWFzZphv2vVv9Q3fJ72G37Y353w7gvIEIb/QAAAsfQdKg==",
                                                                 "ID": "3d635abce2bd4bd6ab1e4e5902834231",
                                                                 "Preset": 5,
                                                                 "SingleMode": false
@@ -168,7 +157,7 @@
                                             },
                                             {
                                                 "SplitterHorizontal": {
-                                                    "State": "AAAA/wAAAAEAAAACAAABHQAAAtAA/////wEAAAABAA==",
+                                                    "State": "AAAA/wAAAAEAAAACAAABCwAAAuIA/////wEAAAABAA==",
                                                     "Widgets": [
                                                         {
                                                             "SplitterVertical": {
@@ -184,7 +173,7 @@
                                                                     {
                                                                         "SelectionInfo": {
                                                                             "Options": 53,
-                                                                            "State": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQgAAAACAAAAAQAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAACAAAAZAAAAAEAAAAAAAAApAAAAAEAAAAAAAAD6AAAAABkAAAAAAAAAAAAAAAAAAAAAQ=="
+                                                                            "State": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPYAAAACAAAAAQAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAACAAAAZAAAAAEAAAAAAAAAkgAAAAEAAAAAAAAD6AAAAABkAAAAAAAAAAAAAAAAAAAAAQ=="
                                                                         }
                                                                     }
                                                                 ]
