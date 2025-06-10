@@ -14,9 +14,15 @@ This repository contains a custom layout and preset for the **Fooyin Music Playe
 ### Repository Structure
 ```
 Layout
-├── Evangelion Theme (Sort Of)_5.fyl          # Fooyin layout file with widget configuration and theme
-└── Preset_Evangelion Theme (Sort Of)_5.md    # Preset file for playlist view customization
-README.md                                     # Instructions for installation and usage
+└── 'Evangelion Theme'
+    ├── 'Evangelion Theme (Sort Of)_5.fyl'
+    ├── 'Preset_Evangelion Theme (Sort Of)_5.md'
+    ├── Preview # Preview Pics
+    │   ├── 82ac27a99ca5328fcefbbb21fa5a4afc.png
+    │   ├── c0668b3974fcb030d3a9399453034e88.png
+    │   └── fda4c45fceeb2213415d5717c4fa43df.png
+    └── Preview.md
+README.md
 ```
 
 ### Layout Details
